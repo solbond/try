@@ -3,8 +3,6 @@
 Need this `.env`:
 
 ```
-### DEV
-
 CLERK_PUBLISHABLE_KEY=
 CLERK_SECRET_KEY=
 ```
@@ -20,3 +18,8 @@ bun i
 ```
 bun dev
 ```
+
+## Stack
+
+- [TanStack Start](https://tanstack.com/start/latest) - react framework (routing, server actions, ..)
+- [Clerk](https://clerk.com) - auth
