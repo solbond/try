@@ -1,5 +1,7 @@
-# SolBond
+# [solbond.co](https://solbond.co)
 
 > Sell digital products, services
 
-See [web](web) for how to run website.
+## Web
+
+See [web](web) to run website.

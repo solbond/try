@@ -8,3 +8,6 @@
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+
+scripts/run.ts
+.ronin
